@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new programming skills.
 - 🌱 I’m currently learning Data Structure and Algorithms.
 - 💞️ I’m looking to collaborate on any project that needs my help.
-- 📫 How to reach me , @I_m_JatinV on Twitter 
+- 📫 How to reach me , @I_m_JatinV on Twitter or linkedin.com/in/jatin-vashisht-a6949a221 on LinkedIn
 
 <!---
 jatin-vashisht/jatin-vashisht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
