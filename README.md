@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jatin-vashisht
-- 👀 I’m interested in learning new programming skills.
-- 🌱 I’m currently learning Data Structure and Algorithms.
+- 👀 I’m interested in learning new programming skills as learning never ends.
+- 🌱 I’m currently learning Data Structure and Algorithms and Web Development.
 - 💞️ I’m looking to collaborate on any project that needs my help.
 - 📫 How to reach me , @I_m_JatinV on Twitter or linkedin.com/in/jatin-vashisht-a6949a221 on LinkedIn
 
