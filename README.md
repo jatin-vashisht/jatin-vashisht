@@ -25,7 +25,6 @@
 <a href="https://twitter.com/i_m_jatinv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_m_jatinv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jatin-vashisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin-vashisht" height="30" width="40" /></a>
 <a href="https://codesandbox.com/jatinvashisht11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jatinvashisht11" height="30" width="40" /></a>
-<a href="https://instagram.com/i_m_jatinvashisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_jatinvashisht" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jatin_vashisht" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jatin_vashisht" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imjatinvashisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imjatinvashisht" height="30" width="40" /></a>
 </p>
