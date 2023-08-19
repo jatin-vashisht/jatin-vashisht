@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jatinvashisht11@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://resume-jatin-vashisht.tiiny.site/))
+- 📄 Know about my experiences [My Resume](https://resume-jatin-vashisht.tiiny.site/)
 
 - ⚡ Fun fact **I learn by teaching others.**
 
