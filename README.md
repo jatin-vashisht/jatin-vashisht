@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jatin Vashisht</h1>
-<h3 align="center">A Problem Solver</h3>
+<h3 align="center">A Passionate Problem Solver</h3>
 
 <p align="left"> <a href="https://twitter.com/i_m_jatinv" target="blank"><img src="https://img.shields.io/twitter/follow/i_m_jatinv?logo=twitter&style=for-the-badge" alt="i_m_jatinv" /></a> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jatinvashisht11@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://resume-jatin-vashisht.tiiny.site/)
+- 📄 Know about my experiences [My Resume](https://jatin-vashisht-resume.tiiny.site/)
 
 - ⚡ Fun fact **I learn by teaching others.**
 
