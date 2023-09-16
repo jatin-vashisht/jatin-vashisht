@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jatin Vashisht</h1>
-<h3 align="center">A Passionate Problem Solver</h3>
+<h3 align="center">A Passionate Problem Solver and MERN Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/i_m_jatinv" target="blank"><img src="https://img.shields.io/twitter/follow/i_m_jatinv?logo=twitter&style=for-the-badge" alt="i_m_jatinv" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **React , Redux , Node etc.**
+- 🌱 I’m currently learning **React , Bun , Elysia etc.**
 
 - 👯 I’m looking to collaborate on **Any Front-end or Back-end Project**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jatinvashisht11@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://jatin-vashisht-resume.tiiny.site/)
+- 📄 Know about my experiences [My Resume](https://jatin-vashisht.tiiny.site/)
 
 - ⚡ Fun fact **I learn by teaching others.**
 
