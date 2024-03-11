@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/i_m_jatinv" target="blank"><img src="https://img.shields.io/twitter/follow/i_m_jatinv?logo=twitter&style=for-the-badge" alt="i_m_jatinv" /></a> </p>
 
-- 🤝 I’m looking for a new role **Software Engineer**
+- 🤝 I’m looking for a new role **Software Development Engineer**
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **React , Bun , Elysia etc.**
+- 🌱 I’m currently learning **Nextjs , Bun , Elysia etc.**
 
-- 👯 I’m looking to collaborate on **Any Front-end or Back-end Project**
+- 👯 I’m looking to collaborate on **Any Front-end , Back-end or Full-Stack Project**
 
-- 💬 Ask me about **Data Structures and Algorithms , JavaScript , React , Node**
+- 💬 Ask me about **Data Structures and Algorithms , JavaScript , React , Redux , Nextjs , Node**
 
 - 📫 How to reach me **jatinvashisht11@gmail.com**
 
@@ -34,6 +34,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin-vashisht&show_icons=true&locale=en&layout=compact" alt="jatin-vashisht" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatin-vashisht&show_icons=true&locale=en" alt="jatin-vashisht" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-vashisht&" alt="jatin-vashisht" /></p>
